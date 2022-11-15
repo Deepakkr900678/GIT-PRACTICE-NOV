@@ -1,3 +1,10 @@
-.footer { 
-    color: blue;
+header nav ul {
+    list-style: none;
+}
+header nav ul li {
+    display: inline-block;
+}
+
+footer { 
+    color: green;
 }
